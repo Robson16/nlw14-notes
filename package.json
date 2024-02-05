@@ -1,0 +1,25 @@
+{
+  "name": "nlw14-notes",
+  "description": "Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.",
+  "author": "Robson H. Rodrigues <robhenrod@gmail.com>",
+  "homepage": "https://nlw14-notes.vercel.app/",
+  "repository": "https://github.com/Robson16/nlw14-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "ReactJs",
+    "TypeScript",
+    "Tailwind",
+    "SpeechRecognition",
+    "Rocketseat",
+    "NextLevelWeek",
+    "NLW"
+  ],
+  "engines": {
+    "node": ">=20.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
